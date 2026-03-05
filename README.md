@@ -30,6 +30,7 @@ Aqui estão algumas prévias de como o layout se comporta em diferentes telas (D
 
 ### Homepage - Desktop & Mobile
 | Desktop (1200px+) | Desktop | Mobile (375px) |
+| :---: | :---: | :---: |
 | ![Hero Desktop](./assets/screenshots/hero1.png) | ![Hero Desktop](./assets/screenshots/hero2.png) | ![Hero Mobile](./assets/screenshots/mobile.png) |
 
 ### Sobre Nós & Single Post
